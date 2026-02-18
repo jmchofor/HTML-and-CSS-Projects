@@ -1,0 +1,16 @@
+p {
+	color: white;
+	background: black;
+	font-weight: bold;
+	text-align: center;
+}
+
+.p_1 {
+	background: white;
+	color: black;
+	text-align: left;
+}
+
+.shadow_1 {
+	text-shadow: 2px 2px #ff0000;
+}
