@@ -71,6 +71,7 @@ h1{
     background-image: url("../images/icons/smileyface2.png");
     /* transform: scale(0.5); */
     animation-name: race;
+    animation-duration: 2.5s;
     animation-iteration-count: infinite;
     animation-timing-function: cubic-bezier(2.5, 0.2, 0.3, 2);
 }
